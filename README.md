@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently not working.
-- 🌱 I’m currently learning HTML, CSS, JS, React.
-- 👯 I’m looking to collaborate on basic of Front-end.
-- 💬 Ask me about HTML and CSS.
+- 🔭 I'm currently an intern.
+- 🌱 I’m currently learning C#, .NET and Cloud AWS.
 - 😄 Nick: Vivi
 - 💬 About me: I love Jesus and sing about Him <3, I'm graduating with a computer engeneering 💻
 
