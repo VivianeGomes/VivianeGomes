@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Viviane's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivianeGomes&hide=stars,contribs&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/VivianeGomes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeGomes&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/VivianeGomes/github-readme-stats)
 
 - 🔭 I'm currently an intern.
 - 🌱 I’m currently learning C#, .NET and Cloud AWS.
