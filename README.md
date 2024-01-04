@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello World
 
-[![Viviane's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivianeGomes&hide=stars,contribs&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/VivianeGomes/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeGomes&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/VivianeGomes/github-readme-stats)
+[![Viviane's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivianeGomes&hide=contribs&count_private=true&show_icons=true&theme=transparent )](https://github.com/VivianeGomes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeGomes&layout=compact&hide=pascal,vhdl,stata&count_private=true&show_icons=true&theme=transparent&size=50)](https://github.com/VivianeGomes/github-readme-stats)
 
 - 🔭 I'm currently an intern.
 - 🌱 I’m currently learning C#, .NET and Cloud AWS.
